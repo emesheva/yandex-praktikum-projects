@@ -1,2 +1,2 @@
 # yandex-praktikum-projects
-Учебные проекты
+Data analysis projects completed by me during the training cource in Yandex Practikum
